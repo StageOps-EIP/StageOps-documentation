@@ -23,8 +23,17 @@ docs/
   cahier-des-charges/
   specifications-fonctionnelles/
   diagrammes/
+  direction-artistique/
+  infrastructure/
   rncp/
   slides/
+
+### Pages disponibles
+
+| Page | Description |
+| --- | --- |
+| [Direction artistique — Rideau Rubis](docs/direction-artistique/README.md) | Identité visuelle : logo, couleurs, typographie, accessibilité, règles d'usage et fichiers sources. |
+| [Benchmark VPS OVHcloud](docs/infrastructure/benchmark-vps-ovh.md) | Comparatif des offres VPS OVH pour héberger le backend, estimation des ressources et recommandation. |
 
 ## GitHub Wiki
 
